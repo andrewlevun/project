@@ -264,12 +264,12 @@ h2::after {
 
 
 /*slider*/
-
+/*
 .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
     background: rgb(219, 26, 68);
 }
-
-
+*/
+/*
 .slick-prev:hover {
     background-image: url("../images/riait.png");
     outline: none;
@@ -277,6 +277,8 @@ h2::after {
     opacity: .3;
 }
 
+*/
+/*
 .slick-next:hover {
     background-image: url("../images/left.png");
     outline: none;
@@ -284,6 +286,7 @@ h2::after {
     opacity: .3;
 }
 
+*/
 .slick-prev {
     left: 10px;
 }
